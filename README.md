@@ -1,13 +1,11 @@
 # Diio multilingual site
 
-Marketing site for Diio, a service that simplifies grocery checkout for small markets and roadside shops. The site is available in Uzbek, Russian, and English with a simple Express backend to capture contact requests.
+Marketing site for Diio, a service that simplifies grocery checkout for small markets and roadside shops. The site is available
+in Uzbek, Russian, and English with a simple Node backend to capture contact requests.
 
 ## Getting started
 
-1. Install dependencies
-   ```bash
-   npm install
-   ```
+1. Install Node.js (no external packages required).
 2. Start the server
    ```bash
    npm start
