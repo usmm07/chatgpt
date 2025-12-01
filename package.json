@@ -1,0 +1,20 @@
+{
+  "name": "diio-site",
+  "version": "1.0.0",
+  "description": "Diio multi-language site for simplifying grocery checkout workflows.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "diio",
+    "grocery",
+    "checkout",
+    "multilingual",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

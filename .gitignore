@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log*
+.DS_Store
+dist
+.tmp
+.env
+data/contacts.json
